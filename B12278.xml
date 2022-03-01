@@ -1,0 +1,747 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sad memoriall of Henry Curwen esquire the most worthy and onely child of Sr Patricius Curwen Baronet of Warkington in Cumberland, who with infinite sorrow of all that knew him departed this life August: 21. being Sunday: 1636. In the fourteenth yeare of his age; and lyes interred in the Church of Amersham in Buckingham shire.</title>
+            <author>Croke, Charles, 1590 or 91-1657.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1638</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 41 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12278</idno>
+            <idno type="STC">STC 6044a</idno>
+            <idno type="STC">ESTC S114526</idno>
+            <idno type="EEBO-CITATION">99849751</idno>
+            <idno type="PROQUEST">99849751</idno>
+            <idno type="VID">177908</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B12278)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 177908)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1269:04)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sad memoriall of Henry Curwen esquire the most worthy and onely child of Sr Patricius Curwen Baronet of Warkington in Cumberland, who with infinite sorrow of all that knew him departed this life August: 21. being Sunday: 1636. In the fourteenth yeare of his age; and lyes interred in the Church of Amersham in Buckingham shire.</title>
+                  <author>Croke, Charles, 1590 or 91-1657.</author>
+               </titleStmt>
+               <extent>[6], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by W. Turner,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>1638.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Initialed Ch. C.</note>
+                  <note>In prose and verse.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Curwen, Henry, 1621 or 2-1636.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:177908:1"/>
+            <pb facs="tcp:177908:1" rendition="simple:additions"/>
+            <p>A SAD MEMORIALI. OF HENRY CVRWEN ESQUIRE, THE MOST WORTHY AND ONELY CHILD OF Sr PATRICIUS CURWEN Baronet of <hi>War<g ref="char:EOLhyphen"/>kington</hi> in <hi>Cum<g ref="char:EOLhyphen"/>berland.</hi>
+            </p>
+            <p>WHO WITH INFI<g ref="char:EOLhyphen"/>NITE SORROW OF all that knew him depar<g ref="char:EOLhyphen"/>ted this life <hi>Auguſt:</hi> 21. being Sunday: 1636.</p>
+            <p>IN THE FOURTEENTH yeare of his age; and lyes in<g ref="char:EOLhyphen"/>terred in the Church of <hi>Amerſham</hi> in <hi>Buc<g ref="char:EOLhyphen"/>kingham ſhire.</hi>
+            </p>
+            <p>
+               <hi>OXFORD</hi> Printed by W. TURNER. 1638.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:177908:2"/>
+            <pb facs="tcp:177908:2"/>
+            <head>TO MY HONORABLE FRIENDS Sr PATRICIUS CURWEN Baronet, and his ver<g ref="char:EOLhyphen"/>tuous LADY, peace and comfort.</head>
+            <opener>
+               <salute>Right Noble and R. Vertuous,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Ou were pleaſed to put into my hands a <hi>Jewell</hi> of great price, your onely Child, I received him with joy, I loſt him with griefe. Vpon this paper I have ſpent <hi>more teares than inke, ſighs than ſentences:</hi> could my groanes have fetch'd him, the grave had yeelded him. But now, you and I muſt learne, (God proſper the
+<pb facs="tcp:177908:3"/>Leſſon) <hi>Wee muſt goe to him, hee cannot returne to us:</hi> God hath ta<g ref="char:EOLhyphen"/>ken but his owne, and wee may not murmure; my love to the deceaſed, my devotedneſſe to You, hath drawne into view the ſubſtance of five houres medi<g ref="char:EOLhyphen"/>tation, and thoſe diſtracted with ſorrows: as love hath compoſed theſe lines, ſo love, I truſt, will ſhelter them: if I may doe any thing to You acceptable, to the memory of <hi>my Jewell</hi> friendly, that day in all my life ſhall be accounted by me <hi>a great day;</hi> for no longer ſhall I live, than I ſhall alſo live</p>
+            <closer>
+               <signed>
+                  <hi>Yours ever devoted to Your ſervice</hi> Ch. C.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:177908:3"/>
+            <head>THE AVTHOR TO THE READER.</head>
+            <opener>
+               <salute>Gentle Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Heſe papers have lien two years in <hi>Cumberland</hi> in a Manu<g ref="char:EOLhyphen"/>ſcript, which privacie not ſa<g ref="char:EOLhyphen"/>tisfying the great affection of Noble Parents towards their deceaſed Son, they are now come to thy view. The memory of the Gentleman (the mournfull ſubject) you will ſoone perceive was worthy all conti<g ref="char:EOLhyphen"/>nuance: <hi>Achilles</hi> is yet remembred for <hi>Ho<g ref="char:EOLhyphen"/>mer;</hi> but if I Be thought on, <hi>it is for wor<g ref="char:EOLhyphen"/>thy CURWEN; Achilles</hi> for the excel<g ref="char:EOLhyphen"/>lencie of the writer, I of the ſubject: for I freely acknowledge, the Penman will deſerve little of his Reader, but the Gentleman that is deſcribed, <hi>all imitation. Fruere &amp; vale.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:177908:4"/>
+            <pb n="1" facs="tcp:177908:4"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Iob. 14.2.</hi>
+                  </bibl>
+                  <p>He commeth forth as a flower and is cut downe.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">H</seg>Oly, but yet afflicted <hi>Iob,</hi> from the ſad meditation of mans fraile condition in generall, <hi>Man borne of a woman is of few daies, and full of trouble:</hi> and ſharpe ſenſe of his owne in particular, <hi>verſe.</hi> 3. deprecates very earneſtly Gods judgements, doeſt thou open thine eye upon ſuch a one, and bringeſt mee into judgement with thee? <hi>me a man of few dayes, me a flower, me a ſhadow?</hi> wilt thou looke narrowly u<g ref="char:EOLhyphen"/>pon the actions of mortalls, ſaith <hi>Pine<g ref="char:EOLhyphen"/>da,</hi> and trie them <hi>ſummo jure, in rigour?</hi>
+               <pb n="2" facs="tcp:177908:5"/>wilt thou ſet an appointed day for man to anſwere thee as at a fearefull barre of judgement? wilt thou open thine all ſeeing eyes to prye ſeverely into this creature? This manner of expreſſion ſpeakes thus much, it cannot be, thou wilt not doe this thing. Thou wilt not condemne him that in poenitentiall ſor<g ref="char:EOLhyphen"/>row judgeth himſelfe; nor afflict be<g ref="char:EOLhyphen"/>yond meaſure ſo weake a creature. but <hi>v.</hi> 6. thou wilt turne from him that hee may reſt, and accompliſh as a hireling his day.</p>
+            <p>In briefe <hi>Iob</hi> inferres from mans fraile<g ref="char:EOLhyphen"/>ty that he ſtandeth in neede of the com<g ref="char:EOLhyphen"/>paſſion, indulgence, and tender mercies of his maker. A great part of frailty here bewailed, is mans tranſitory eſtate, and ſubjection unto death, <hi>man, and doluit, are couched in the ſame</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. ſo long as he is man, he is in paine, hee weares away, which momentany condition, <hi>Iob</hi> ex<g ref="char:EOLhyphen"/>preſſeth by reſemblances taken from <hi>a flower and a ſhadow,</hi> the one withereth or
+<pb n="3" facs="tcp:177908:5"/>is cut downe; the other ſuddenly paſ<g ref="char:EOLhyphen"/>ſeth away. The one hath a <hi>ſhort being,</hi> and the other is nothing.</p>
+            <p>This flower may ſignify either what<g ref="char:EOLhyphen"/>ſoever is of eminency, ſtrength, vivaci<g ref="char:EOLhyphen"/>ty, comelineſſe in mans life, all which like <hi>Ionah</hi> his Gourd, is withered as ſoone as growne up: or it may ſignifie the ſpring, and flouriſhing time of mans age, his youth, which hath no more priviledge againſt death, then the graſſe, and flower of the field hath, againſt the ſithe of the mower.</p>
+            <p>The flower to which the moſt flou<g ref="char:EOLhyphen"/>riſhing men are reſembled hath two properties here laid before us 1. <hi>to flou<g ref="char:EOLhyphen"/>riſh,</hi> 2. <hi>to decay, or to be cut downe,</hi> it is thus with the flower, it is thus with all the glory of man, heare it and be inſtructed by it.</p>
+            <p>Firſt, man is as a flower, it may be admitted in the growth, fragrancy, come<g ref="char:EOLhyphen"/>lineſſe, beauty of a flower, youth hath much of this, <hi>and our bleſſed friend depar<g ref="char:EOLhyphen"/>ted
+<pb n="4" facs="tcp:177908:6"/>had all of it</hi> God hath made of meane matter, of a little red earth an excellent fabrick; hee hath put <hi>miris modis,</hi> bloud into the veines, into the bones marrow, into the limmes proportion, into the lineaments comelineſſe, in the comple<g ref="char:EOLhyphen"/>xion beauty, into the handes ſtrength, the tongue pleaſantneſſe, the eyes ma<g ref="char:EOLhyphen"/>jeſty, and the head capacity, that <hi>ex ve<g ref="char:EOLhyphen"/>nuſtate &amp; dignitate</hi> the beauty of man might be compleat. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>Baſil. in hexam. hom.</hi> 6.</p>
+            <p>Underſtand O man thine owne dig<g ref="char:EOLhyphen"/>nity, thou art earth by nature, yet the worke of divine handes; the worke of thoſe handes, that give the <hi>flower out of duſt, beauty out of aſhes.</hi>
+            </p>
+            <p>This beauty, this flouriſhing of the flower is not a meane favour, if any be lifted up for this gift, wee ſay with Saint <hi>Auſtin. lib.</hi> 15. <hi>d. c.d. c.</hi> 28. <hi>it is temporale, carnale, infimum bonum,</hi> yet let the mo<g ref="char:EOLhyphen"/>deſt know, let ſuch as cannot heare of beauty without the beauty of a bluſh
+<pb n="5" facs="tcp:177908:6"/>know, it is <hi>bonum quid,</hi> and given <hi>bonis.</hi> God gave it to <hi>Rachel,</hi> and <hi>David</hi> and <hi>Ioſeph.</hi> and <hi>Iob cap,</hi> 42. <hi>verſe</hi> 15 it is ſaid as a thing to be noted, none were found ſo faire in all the land as the daughters of <hi>Iob,</hi> as thoſe daughters God gave him for a comfort and reward af<g ref="char:EOLhyphen"/>ter his patient abiding of ſorrowes. Their beauty is mentioned, as commen<g ref="char:EOLhyphen"/>ding and ſetting them forth unto poſte<g ref="char:EOLhyphen"/>rity, as mentioning a ſolace to comfort thoſe eyes of <hi>Iob,</hi> that had ſeene ſo much evill and deformity in his owne fleſh, when <hi>c.</hi> 2.8. hee ſcraped himſelfe with a potſheard, and ſate downe among the aſhes. Though his body was Leprous by the ſtroke of Satan, yet he lives to ſee the moſt comely iſſue of his loines, men<g ref="char:EOLhyphen"/>tioned in Scripture as a gift of Gods po<g ref="char:EOLhyphen"/>wer, and goodneſſe. The heathen God<g ref="char:EOLhyphen"/>deſſe not meanly did expreſſe her po<g ref="char:EOLhyphen"/>wer, and kindneſſe to her favorite to whom ſhee would give a fit conſort, <hi>&amp; pulchrâ faciet te prole parentem,</hi> gifts
+<pb n="6" facs="tcp:177908:7"/>ſhew the doner.</p>
+            <p>Beauty is called by <hi>Tertullian: foelicitas corporis,</hi> de cult. mulier. <hi>animae urbana ve<g ref="char:EOLhyphen"/>ſtis,</hi> a holy dayes apparell, which even reſurrection will not diminiſh but aug<g ref="char:EOLhyphen"/>ment. But let us heare theſe things with Sobriety, and adde comlineſſe of life, to that of body. Some reade <hi>Iob</hi> 42.15. for none ſo faire, none were found <hi>ſo good</hi> in all the land as the daughters of <hi>Iob,</hi> beauty is then compleat when it is joyned with vertue. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, give mee to be faire in the inward things, Cl. <hi>Alex.</hi> out of <hi>Plato</hi> ſtrom: <hi>Lib.</hi> 1.269. and whatſo<g ref="char:EOLhyphen"/>ever outward thinges I have, let them be helpfull to thinges within me. would any know when they have this beauty? goe to the looking glaſſe, the word of God, into which all of both ſexes ſhould looke more carefully for compoſure of life, then the faireſt Bride doth for or<g ref="char:EOLhyphen"/>nament of body into the cleareſt Chri<g ref="char:EOLhyphen"/>ſtall, and never ſhould wee thinke our
+<pb n="7" facs="tcp:177908:7"/>ſelves well dreſſed but by direction <hi>of that undeceiving Glaſſe.</hi> But now when your beauty is truly amiable like <hi>Iob's</hi> daughters none <hi>ſo good</hi> in the land, like <hi>Suſanna</hi> a very faire woman, and one that feared God. Yet ſuch is Gods ordi<g ref="char:EOLhyphen"/>nance, and mans frailty, you muſt wi<g ref="char:EOLhyphen"/>ther, you muſt like the flower of the field be cut downe. <hi>Hebr.</hi> 9.27. it is appointed to all men once to dye, a de<g ref="char:EOLhyphen"/>cree is gone forth againſt theſe beauti<g ref="char:EOLhyphen"/>full flowers, ſome laſted a long time, <hi>not the Oake now, as the flowers did once,</hi> I meane the Fathers before the floud; yet all came under <hi>Adams</hi> Epitaph <hi>Gen.</hi> 5.5. and he died, ſo that no man now may preſume of a long life, no not when the flower is moſt vernant, <hi>Eccleſ.</hi> 14.12. remember that death will not be long a comming, but remember it without ſadneſſe, <hi>eamus laeti &amp; agentes gratias. Cic. Tuſc.</hi> 1.</p>
+            <p>In the vulgar it is <hi>teſtamentum hujus mundi eſt, morte morietur,</hi> you have the
+<pb n="8" facs="tcp:177908:8"/>legacy <hi>Gen.</hi> 2. in the day thou eateſt ther<g ref="char:EOLhyphen"/>of <hi>morte morieris.</hi> And this is falne haſti<g ref="char:EOLhyphen"/>ly upon us, our birth is an entrance upon death, beauty is decayed, <hi>Libitina and Ve<g ref="char:EOLhyphen"/>nus</hi> were the ſame, <hi>eâdem Deâortibus &amp; interitibus praeſidente.</hi> Plutarch. Morall. wiſe men never put the remembrance of death farre off, <hi>Ioſeph</hi> of <hi>Arimathea</hi> makes his Sepulchre in <hi>his health, and ſtrength, and in his garden amidſt his plea<g ref="char:EOLhyphen"/>ſures.</hi>
+            </p>
+            <p>The glory then of man muſt goe in<g ref="char:EOLhyphen"/>to the duſt, and into aſhes, as the flower which is cut downe, nay as the flower which though not cut downe will wi<g ref="char:EOLhyphen"/>ther and decay. <hi>debemur morti, nos noſtra<g ref="char:EOLhyphen"/>que:</hi> not wee only that are a mouldring duſt, but our ſtately houſes, our curious workes, time will gnaw on them, and conſume them, and us. Yet have we no<g ref="char:EOLhyphen"/>thing to complaine of; 1 Man is in the hands of his maker, as tenants at the will of the Lord, as money lent, <hi>Data eſt uſura vita tanquam pecunia, nullo praeſti<g ref="char:EOLhyphen"/>tuto
+<pb n="9" facs="tcp:177908:8"/>die. Tuſc.</hi> 1. <hi>Cic.</hi> life is given unto man as mony lent without nomination of day of payment, <hi>due in Law</hi> preſently, God hath his divine purpoſe in it. <hi>Si mors certae co<g ref="char:cmbAbbrStroke">̄</g>ſtituta eſſet aetati fieret homo inſolentiſsimus, &amp; humanitate omni careret. Lact. l.</hi> 1. <hi>c.</hi> 4. <hi>de opif. Dei.</hi> were death ap<g ref="char:EOLhyphen"/>pointed at a ſet age, man would be moſt inſolent, and voyd of all humanity, for that man who is ſo forgetfull of himſelfe now, in this uncertainty, while hee may dye in <hi>hoc nunc,</hi> I while I am ſpeaking, you while you are hearing; O how unbrideled would man be if he had certaine aſſurance that he ſhould not this 20.30.40.50 yeares be called to account, for thinges done in the body. 2 wee cannot complaine that dye wee muſt, and ſuddainly we may, every die<g ref="char:EOLhyphen"/>ing friend may ſay to us as dieing <hi>Calanus</hi> to <hi>Alex:</hi> then in health, and young, <hi>brevi te videbo.</hi> neither ſhould it daunt us. <hi>Socrates triduo conceſſo primo bibit,</hi> having three dayes of death given
+<pb n="10" facs="tcp:177908:9"/>him, underwent it the firſt, though his Conſolation in death was but philoſo<g ref="char:EOLhyphen"/>phicall, the <hi>Athenians</hi> have adjudged thee to dye, &amp; the<g ref="char:cmbAbbrStroke">̄</g> nature: he replieth he knew not that through Chriſt withering is flouriſhing, death a paſſage to life, that life that dieth no more, <hi>vita vobiſ<g ref="char:EOLhyphen"/>cum eſt &amp; de morte ſolliciti eſtis? Orig. tom.</hi> 2, <hi>p,</hi> 443. with you is life of angels, &amp; are you troubled at the cogitation of death? what is the cauſe ſaith hee <hi>tom.</hi> 2. <hi>pag,</hi> 522, the mind of wiſe men, of old men, is hardly brought <hi>ut cedat na<g ref="char:EOLhyphen"/>turae legibus,</hi> this <hi>Hagar</hi> of feare muſt be caſt out, if ſhee be immoderate ſhee can<g ref="char:EOLhyphen"/>not be he ire with the child of the free woman, <hi>Hope of Salvation.</hi>
+            </p>
+            <p>
+               <hi>Ejus eſt mortem timere qui ad Chriſtum nolit ire, ejus eſt ad Christum nolle ire qui ſe non credat cum Chriſto incipere regna<g ref="char:EOLhyphen"/>re. Cyprian. de mortalit. p,</hi> 341, it is for him to feare death, who would not goe to Chriſt, and it is for him to be unwil<g ref="char:EOLhyphen"/>ling to goe to Chriſt, who doth not be<g ref="char:EOLhyphen"/>leeve
+<pb n="11" facs="tcp:177908:9"/>that hee doth already begin to raigne with Chriſt. But ſome men hap<g ref="char:EOLhyphen"/>pily can reſolvedly dye, who cannot without great ſorrow looke upon deaths ſtroke in their friendes, ſuch as was our beloved here taken from us, for which loſſe, I ſee your great heavineſſe, <hi>I feele my owne.</hi> The councell is good, <hi>Eccl.</hi> 22, 11, if wee could obey it, make litle weeping for the dead, hee is at reſt, ſorne wee may, nay great mourning for ſome dead, <hi>Gen,</hi> 50, 10, at the threſhing floure of <hi>Atad</hi> was a great and ſore la<g ref="char:EOLhyphen"/>mentation for <hi>Iacob,</hi> and from that ſore lamentation I will take my exhortation, that according to Saint <hi>Paul</hi> none do ſorrow as men without hope <hi>v,</hi> 1. <hi>Ioſeph</hi> mourning wept over his dead father, and kiſſed him. <hi>Teares doe expreſſe ſor<g ref="char:EOLhyphen"/>row, kiſſes comfort,</hi> wee muſt mingle in our mourning, our <hi>Teares</hi> with <hi>Kiſſes,</hi> not as if Corporall preſence of dead friendes could ſtill be enjoyed. <hi>Abraham</hi> intreateth roome to bury his dead out
+<pb n="12" facs="tcp:177908:10"/>of his ſight, hee looked for no more of that content, but no doubt hee never ceaſed upon fit occaſions to remember and delight in the manifold comforts once enjoyed: which pious remembran<g ref="char:EOLhyphen"/>ces are as ſo many <hi>Kiſſes</hi> of preſent and beloved friendes, our kiſſes take not a<g ref="char:EOLhyphen"/>way our moderate teares, mourne wee may as ſenſible of our loſſe, none have loſt more, none may ſorrow more then my ſelfe: heare a litle of his perſon, and you will be very ſenſible of my ſorrow.</p>
+            <p>This gentleman whoſe Corps lieth before us, was the only, and moſt juſtly beloved child of Sir PATRICIUS CUR<g ref="char:EOLhyphen"/>WEN <hi>Baronet,</hi> and his vertuous Lady ISABELLA, of a moſt auncient and noble family in <hi>Cumberland:</hi> the child I could perceive (for I looked throughly into him, and may be a competent reporter) was modeſtly ſenſible of <hi>birthes privi<g ref="char:EOLhyphen"/>ledge;</hi> &amp; knew (which much his elders forget) that of <hi>Cicero, nobilitas eſt nihil ali<g ref="char:EOLhyphen"/>ud quàm cognita virtus,</hi> which poſterity
+<pb n="13" facs="tcp:177908:10"/>is to imitate, and <hi>perpetuate;</hi> otherwiſe <hi>Et genus, &amp; proavos, &amp; quae non ſecimus ipſi, vix ea noſtra voco.</hi>
+            </p>
+            <p>
+               <hi>Plutarch</hi> noteth of <hi>Lyſander</hi> that he yeel<g ref="char:EOLhyphen"/>ded nothing to the poſterity of <hi>Hercules.</hi> unleſſe they did imitate the vertues of <hi>Hercules.</hi> and <hi>Cicero ad Quint. fratrem: vides ex ampliſsimis familiis homines, quòd ſine nervis ſint tibi pares non eſse.</hi> you do ſee how men of very great families, are not equall to thee an upſtart, becauſe they have not other worth.</p>
+            <p>Come wee then to what was this gentlemans own, not borrowed fro<g ref="char:cmbAbbrStroke">̄</g> his honourable <hi>progenitors,</hi> if you conſider him in his bodily partes, he was <hi>a flowre, a Lilly,</hi> wee found it in his fragrancy, I would we had not found it in his <hi>withe<g ref="char:EOLhyphen"/>ring. gratior eſt pulchro veniens e corpore vir tus,</hi> &amp; ſuch gracefullneſſe had he amo<g ref="char:cmbAbbrStroke">̄</g>gſt us, he adorned beauty with humility, and modeſty, &amp; fortitude even <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ap<g ref="char:EOLhyphen"/>peared in his tender yeares, who carried out a weake conſtitution, with manly patience.</p>
+            <pb n="14" facs="tcp:177908:11"/>
+            <p> As for his generall carriage and giftes of mind, O how beautifull was this <hi>Lil<g ref="char:EOLhyphen"/>ly!</hi> 1 for his piety to God, never did I ſee the age of 14 ſo ſeaſoned with piety &amp; devotion, ſo free from all appearance of <hi>faction,</hi> or <hi>ſuperſtition,</hi> the common rocks many doe now fall upon. This under God wee muſt aſcribe to judi<g ref="char:EOLhyphen"/>cious, and carefull parents, who bred a ſonne in very remote partes of this Kingdome, almoſt <hi>ultimâ Thule,</hi> which for piety, and generous carriage, might be a patterne to the youth of our <hi>nation,</hi> certainly they were carefull to avoid that reproch, <hi>magna culpa Pelopis qui non erudierat filium. Cic. Tuſc.</hi> 1.</p>
+            <p>His delight was in Gods houſe, where hee ſate as you noted, I doubt not, comely and with attention above the Condition of his yeares; he profited, as I had cauſe to obſerve it, exceedingly; his firſt mornings worke, in which I could diſcerne antecedent cuſtome, was prayer, and a portion of ſcripture, which
+<pb n="15" facs="tcp:177908:11"/>he performed with manly and ſerious attention, hee loved the <hi>Sunday</hi> and the <hi>Temple,</hi> and hee died on the <hi>Sunday,</hi> and almoſt in the <hi>Temple,</hi> having beene in reverend manner on that day at mor<g ref="char:EOLhyphen"/>ning and evening <hi>ſolemnities in the Tem<g ref="char:EOLhyphen"/>ple.</hi> I cannot here omit how through Gods providence I walking in the fieldes with him the evening before, (as by reaſon of his weake body I mixed his ſtudy with recreations) wee fell into above an houres communication, not as often wee did in rudiments of hu<g ref="char:EOLhyphen"/>mane learning, but our talke was then (ſo God diſpoſed it) about many fun<g ref="char:EOLhyphen"/>damentall points of religion, and ſome polemicall; I found him ſo apprehen<g ref="char:EOLhyphen"/>ſive of reaſon, ſo delighting in truth ap<g ref="char:EOLhyphen"/>prehended, ſo able to diſcerne a weake objection from a ſtrong, ſo prompt to conceive an anſwer and give it ſome ad<g ref="char:EOLhyphen"/>dition of confirmation, <hi>that Apollonius looked not on his Cicero</hi> with more admi<g ref="char:EOLhyphen"/>ration and affection, then I on him. I
+<pb n="16" facs="tcp:177908:12"/>conjectured then, and by ſome other markes taken at other times, that ſome enemies to the truth had attempted him, but Trialls are confirmations, to the ju<g ref="char:EOLhyphen"/>dicious.</p>
+            <p>For his carriage towards man 1. for parents hee joyed at any mention of them, was obedient and Dutifull to<g ref="char:EOLhyphen"/>wardes them, his wiſhes were tender and pious for them, his ſoule was able to diſcerne they affected really his good, his ſpirit was captivated to their will, he thought no thing good for him, but what they directed; hee was more gui<g ref="char:EOLhyphen"/>ded by commandes of them <hi>abſent,</hi> then moſt children are (and yet I know ſome good ones) by intreatings or threatnings of parents that are <hi>preſent.</hi>
+            </p>
+            <p>Hee well remembred the councell of <hi>Solomon Prov.</hi> 1, 8. my ſonne heare the inſtruction of thy father, and forſake not the law of thy mother, ſome read <hi>dimi<g ref="char:EOLhyphen"/>niſh not</hi> the Law of thy mother, and ſo <hi>his life</hi> expounded it. 2 for parents of the
+<pb n="17" facs="tcp:177908:12"/>mind teachers, certainly hee divided his ſoule betwixt the parents of the body and them, they gave him earneſt dire<g ref="char:EOLhyphen"/>ctions to ſhew obedience to mee, as to themſelves, hee yeelded all obedience <hi>willingly,</hi> with <hi>love,</hi> hee was never uſu<g ref="char:EOLhyphen"/>ally out of the teachers ſociety, which children and vaine youth doth deſire to ſhun. So tractable hee was to all my waies, a frowne would deject him, a harſh or haſty word would <hi>melt him in<g ref="char:EOLhyphen"/>to teares,</hi> the man muſt have beene very rough, &amp; moſt indiſcreet, that had uſed Stripes, ſowre diſcipline was not for him who never did in ſo many mo<g ref="char:cmbAbbrStroke">̄</g>thes (you are preſent that know it) the thing <hi>vaine, light, or childiſh,</hi> and all this obedience was mixt as I ſaid with love, the life of it If at any time craſineſſe and diſtemper of body came upon him (good God how ſhould I forget it!) he would ſay to ſervants tell them not, they grieve too much, I ſhall quickly be well again, nay when the very ſtroke of death
+<pb n="18" facs="tcp:177908:13"/>came, he would have hid it from mee and my conſort, but God ſo diſpoſed wee were both at hand, in our armes this <hi>Lambe of God expired,</hi> and in his ve<g ref="char:EOLhyphen"/>ry diſſolution wee might perceive his griefe for our teares. 3. for his behaviour towards others, if among ſuperiours, it was reverent, if equality, if inferiours with kindneſſe, and with dignity, for his literature and hopes therein, had his body beene ſtrong enough for the divi<g ref="char:EOLhyphen"/>ner part, he might have out-gone even the great deſires and hopes of carefull parents; his memory was quick and would have beene tenacious, ſuch was his diligence; his apprehenſion cleare, his judgement ſolid, his invention a<g ref="char:EOLhyphen"/>bove his yeares, ſavouring of mans age, his ſpeech was diſcreet, his geſture com<g ref="char:EOLhyphen"/>ly, his wit pleaſant, unoffenſive, his pre<g ref="char:EOLhyphen"/>ſence delectable, and the loſſe of him hath filled us with mourning, judge you what bleſſed gifts were in him all cannot be ſet before your view, and all
+<pb n="19" facs="tcp:177908:13"/>that I have ſaid of this noble gentle<g ref="char:EOLhyphen"/>man, I have ſpoke it, and ſo doe you re<g ref="char:EOLhyphen"/>ceive it, not as from an <hi>Oratours desk,</hi> but as from <hi>a ſacred Pulpit.</hi>
+            </p>
+            <p>Touching his diſſolution I have not much to ſay, I would I had nothing, I wiſh that in maturity of his age hee might have cloſed theſe eyes of mine, that I might have been ſo happy to have ſeene ſome of <hi>the glorious actions</hi> of his great hopefulneſſe, His death was ſud<g ref="char:EOLhyphen"/>den. <hi>Iulius Ceſar</hi> deſired ſuch a one, were it that even great ſpirits are too weake to looke the prepared aſſault of death in the face, or that warre, in which he de<g ref="char:EOLhyphen"/>lighted, was likely to give him no other death, ſo that he would ſeeme to turne a neceſſity into a choyce, let him judge that hath leaſure. The ſudden fatall ſtroke came from an apoſteme ingen<g ref="char:EOLhyphen"/>dered about the heart (as the moſt lear<g ref="char:EOLhyphen"/>ned in Phyſicke were of opinion) which not poſſibly finding paſſage, ſoone drowned that vitall and noble
+<pb n="20" facs="tcp:177908:14"/>part, quickly taking, ſenſe, life, motion, from <hi>this Lambe of God,</hi> by which wee are in <hi>griefe,</hi> he in glory.</p>
+            <p>But ſome may demand, why hath ſo much been ſpoken of a <hi>youth of</hi> 14. <hi>years,</hi> a child of <hi>Adam?</hi> I doe not willingly ex<g ref="char:EOLhyphen"/>ceede in this kind, <hi>Cicero</hi> noteth 2. <hi>de le<g ref="char:EOLhyphen"/>gibus: poſtquam ſu mtuoſa fieri funera et la<g ref="char:EOLhyphen"/>mentabilia coepiſſent, Solonis lege ſublata ſunt.</hi>
+            </p>
+            <p>But a wiſer and greater Lawgiver then <hi>Solon</hi> doth warrant <hi>Funerall decencies,</hi> 2. <hi>Chron.</hi> 35.25. and <hi>Ieremiah</hi> lamented for <hi>Ioſiah,</hi> and all the ſinging men, and ſinging women ſpake of <hi>Ioſiah</hi> in their lamentations, ſet out his excellent ver<g ref="char:EOLhyphen"/>tues: <hi>Anthems, Verſes, Sermons,</hi> are fit meanes to honour, &amp; bewaile the death of Gods Saintes.</p>
+            <p>And for this gentleman, whoſoever knew his ornaments of grace and na<g ref="char:EOLhyphen"/>ture as I did, will rather wonder how in ſo large an argument I could ſpeake ſo litle, <hi>inopem me copia fecit.</hi> why is ſo much
+<pb n="21" facs="tcp:177908:14"/>ſpoken? 1. that we may know the good<g ref="char:EOLhyphen"/>neſſe of God towards a child of <hi>Adam,</hi> we are all conceived in ſinne, wee are by nature children of wrath, <hi>omnis homo in patre &amp; matre pollutus eſt. Orig. tom.</hi> 2.164. and the mercy is moſt worthy our remembrance, this gentleman ſhould arrive ſo early, at ſuch a height of grace. <hi>honori tempeſtivus, qui virtute matu<g ref="char:EOLhyphen"/>rus,</hi> let vertue have honour. 2 why ſo much? it is to ſtirre up young men to <hi>imitation,</hi> I hope God ſent this <hi>Flower</hi> out of the <hi>North</hi> for that purpoſe, they will leave childhood, and vanity, they will certainly aime at ſuch perfections as youth is evidently capable of. children ſang <hi>Hoſanna</hi> unto Chriſt, <hi>Timothy</hi> is commended from a child, amongſt mo<g ref="char:EOLhyphen"/>rall men <hi>Alexander the great, Hannibal, Scipio, Augustus Caeſar,</hi> atcheived great thinges; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, it is an age in which wee may doe <hi>all things.</hi>
+            </p>
+            <p n="3">3. why ſo much? to admoniſh parents
+<pb n="22" facs="tcp:177908:15"/>that they make impreſſions of vertue in their children in youth, when it will ſtick longeſt, <hi>argillâ quidvis imitaberis u<g ref="char:EOLhyphen"/>dâ,</hi> never ſay, O willingly deluded pa<g ref="char:EOLhyphen"/>rents, your children have time enough, they are yong enough. <hi>Qui non eſt hodie cras minus aptus erit:</hi> you will find it to your great griefe, whe<g ref="char:cmbAbbrStroke">̄</g> it will be too late to redreſſe it. I am not ſo unreaſonable or ſowre, that I would adviſe any, to o<g ref="char:EOLhyphen"/>vercharge a child, or prejudice health, of which in this ſickly gentleman I was moſt tender, but when you have the happy opportunities of youth, ſtrength, capacity, uſe the time, trifle it not away. <hi>magni refert</hi> ſaith <hi>Eraſmus praefat in opera Orig. ubi naſcaris,</hi> in <hi>Turkey</hi> or in Chri<g ref="char:EOLhyphen"/>ſtendome, <hi>magis à quibus</hi> of ill natures or good, <hi>maximè à quibus inſtituaris,</hi> that makes the man.</p>
+            <p n="4">4. why ſo much? to abaſh elder ones that in thrice his age have not expreſſed halfe his vertues: <hi>ju ventutem tuam nemo deſpiciat, S Cyprian</hi> excellently paraphra<g ref="char:EOLhyphen"/>ſeth,
+<pb n="23" facs="tcp:177908:15"/>
+               <hi>multò minus ſenectutem,</hi> the Poet ex<g ref="char:EOLhyphen"/>preſſeth it though to an ill purpoſe <hi>jura ſenes norint, &amp; quid liceatque nefaſque,</hi> it ſhould be ſo.</p>
+            <p n="5">5 why ſo much? to ſee our loſſe, <hi>Cumber<g ref="char:EOLhyphen"/>lands</hi> loſſe, the righteous periſh no man regards it; theſe are heavy ſtrokes to a people, when God takes away noble and hopefull youth; what an example, what a comfort, what a patriot, might this gentleman have beene in his coun<g ref="char:EOLhyphen"/>try, what might they not have hoped in him? But he is gone, <hi>ergo Quintilium per<g ref="char:EOLhyphen"/>petuus ſopor urget!</hi> it is the Lords doing, it is wonderfull, it is ſevere in our eyes; yet dare we not ſay why haſt thou done this, rather with <hi>Iob,</hi> the Lord hath gi<g ref="char:EOLhyphen"/>ven, and the Lord hath taken away, bleſ<g ref="char:EOLhyphen"/>ſed be the name the Lord, as the Lord will ſo commeth it to paſſe. This is a hard leſſon to learne, to me as hard as to any, but he that gave it to us in his word, of his mercy write it in our heartes by his ſpirit. To God the father, god the ſon. &amp;c.</p>
+            <p>
+               <hi>Laus ſoli Deo.</hi>
+            </p>
+            <pb n="22" facs="tcp:177908:16"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="23" facs="tcp:177908:16"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="24" facs="tcp:177908:17"/>
+            <p>The body was borne to the buriall by gentlemen that wayted on the young nobles.</p>
+            <p>The two former corners of the ſheete were borne <hi>viz.</hi> by
+<list>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>George Mountague</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Sidney Mountague</hi>
+                  </item>
+               </list> ſonnes of the right hon. <hi>Hen.</hi> E. of <hi>Manch.</hi> L. privy ſeale.</p>
+            <p>The two hinder corners by
+<list>
+                  <item>M. <hi>George Berkley</hi> ſon of <hi>G.</hi> Lord <hi>B.</hi>
+                  </item>
+                  <item>M. <hi>VVilliam Bridges</hi> ſon of the Lord <hi>Chandos</hi> deceaſed.</item>
+               </list>
+            </p>
+            <p>The following verſes were upon the hearſe.
+<list>
+                  <item>Friends accompanying the body to C. <hi>Hennage Proby</hi> Eſquire. High Shriffe of <hi>Buckinghamſhire.</hi>
+                  </item>
+                  <item>S. <hi>David VVatkins</hi> Knight with their Ladies.</item>
+                  <item>S. <hi>Thomas Sanders</hi> Knight with their Ladies.</item>
+                  <item>
+                     <hi>VVilliam Drake</hi> Eſquire.</item>
+                  <item>
+                     <hi>Henry Haſtings</hi> Eſquire.</item>
+               </list> with Gentlemen and gentlewomen of quality.</p>
+            <div type="poems">
+               <pb n="25" facs="tcp:177908:17"/>
+               <head>IN EXIMIAE VIRTVTIS Adoleſcentulum HENRICUM CURWEN Armig:
+<note place="margin">obiit <hi>Aug.</hi> 21. 1636. <hi>die ſolis.</hi>
+                  </note> Domini Patricii CURWEN Baro<g ref="char:EOLhyphen"/>netti filium unigenitum vario<g ref="char:EOLhyphen"/>rum Tumuli.</head>
+               <lg>
+                  <l>
+                     <hi>Iſte dies ſolis ſocio mala funera praebens</hi>
+                  </l>
+                  <l>
+                     <hi>Nigro ſcriptus erit qui fuit antè rubro.</hi>
+                  </l>
+                  <l>
+                     <hi>Fata tamen ſcelus eſt nimiùm deflere Sodalis,</hi>
+                  </l>
+                  <l>
+                     <hi>Ille etenim coeli culmina ſancta petit.</hi>
+                  </l>
+                  <closer>
+                     <signed>George Mountague. <hi>aetat.</hi> 13. <hi>fil. illuſt. comitis</hi> Mancheſtriae.</signed>
+                  </closer>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Paſſer qui matrem latis amiſit in agris</hi>
+                  </l>
+                  <l>
+                     <hi>Quaerit ubique cibum, ſed cibus omnis abeſt.</hi>
+                  </l>
+                  <l>
+                     <hi>Pipilat incaſſum, mater fit ſurda vocanti,</hi>
+                  </l>
+                  <l>
+                     <hi>Clamitat ut veniat, non tamen illa venit:</hi>
+                  </l>
+                  <l>
+                     <hi>Sic te dum quaero querulis ululatibus aether</hi>
+                  </l>
+                  <l>
+                     <hi>Impletur, ſed te non reperire queo:</hi>
+                  </l>
+                  <l>
+                     <hi>Aſt ubi te quaeram toto defeſſus in orbe,</hi>
+                  </l>
+                  <l>
+                     <hi>Scandiſti coelum regna beata Dei.</hi>
+                  </l>
+                  <closer>
+                     <signed>Grego. Norton <hi>Baronetti fil. nat. max. aetat.</hi> 14.</signed>
+                  </closer>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Heu quid agam triſtis, ſummus dolor oſsibus haeret,</hi>
+                  </l>
+                  <l>
+                     <hi>Cor dolet, a nobis noſter amicus abeſt.</hi>
+                  </l>
+                  <l>
+                     <hi>Iſta dies memoranda mihi eſt quâ, chare Sodalis,</hi>
+                  </l>
+                  <l>
+                     <hi>Horrendo gladio mors tibi membra ferit.</hi>
+                  </l>
+                  <l>
+                     <hi>Occupat oſſa dolor, ſtimulant praecordia cura</hi>
+                  </l>
+                  <pb n="26" facs="tcp:177908:18"/>
+                  <l>
+                     <hi>&amp; noſtris lachrymis arida terra madet.</hi>
+                  </l>
+                  <l>
+                     <hi>Heu perii! noſtrum non eſt reparabile damnum.</hi>
+                  </l>
+                  <l>
+                     <hi>non bona, non nummus, charus amicus abeſt.</hi>
+                  </l>
+                  <l>
+                     <hi>O utinam poſſem precibus tibi reddere vitam,</hi>
+                  </l>
+                  <l>
+                     <hi>laſſarem precibus, nocte dieque deum.</hi>
+                  </l>
+                  <l>
+                     <hi>Sed quid me macero? quid corda doloribus ango?</hi>
+                  </l>
+                  <l>
+                     <hi>namque animam coelum, terraque corpus habet.</hi>
+                  </l>
+                  <closer>
+                     <signed>Johannnes Trevour <hi>equitis aurati fil. nat. max. aetat.</hi> 12.</signed>
+                  </closer>
+               </lg>
+               <lg>
+                  <l>How is that morning flower ſo freſhly blowen,</l>
+                  <l>Toucht with an envious breath, &amp; breathleſs thrown!</l>
+                  <l>Thoſe limmes like <hi>Parian</hi> marble curious fram'd,</l>
+                  <l>Thoſe eyes like gemmes it'h ſilver orbe inflam'd,</l>
+                  <l>Thoſe comely locks reſembling <hi>Phoebus</hi> haire</l>
+                  <l>Thoſe fingers which with <hi>Bacchus</hi> might compare,</l>
+                  <l>Thoſe lovely lookes as had yee bluſhing grace,</l>
+                  <l>Ladyes, you would but wiſh for ſuch a face.</l>
+                  <l>Thoſe all &amp; better parts which lay within</l>
+                  <l>Have paied deaths obligation made by ſin.</l>
+                  <l>Duſt wee are all, to duſt we muſt returne,</l>
+                  <l>But riſe wee ſhall again; then ceaſe to mourne</l>
+                  <l>Do not exceede as thoſe that quenched have</l>
+                  <l>All joy with teares, and ſunk all hope in grave.</l>
+                  <l>Yet mourne, leſt whilſt you too ſtrong hearted prove</l>
+                  <l>Men Cenſure you for wanting love.</l>
+                  <closer>
+                     <signed>
+                        <hi>Guil. Short</hi> Art. Magiſt.</signed>
+                  </closer>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Si pia pro vestrâ valuiſſent vota ſalute</hi>
+                  </l>
+                  <l>
+                     <hi>chara patri ſoboles, charior ipſa Deo;</hi>
+                  </l>
+                  <l>
+                     <hi>Tuque tuâ vitâ, nos te potiremur amate</hi>
+                  </l>
+                  <l>Curwen, <hi>boec nobis invida fata negant.</hi>
+                  </l>
+                  <l>
+                     <hi>Nec tua te virtus, genus, ars,, pietaſne colenda</hi>
+                  </l>
+                  <l>
+                     <hi>aetas, nec facies, pellere morte poteſt.</hi>
+                  </l>
+                  <pb n="27" facs="tcp:177908:18"/>
+                  <l>
+                     <hi>Sed tam rara fides, &amp; cultus numinis alti,</hi>
+                  </l>
+                  <l>
+                     <hi>advexit citiùs ſedibus Eliſiis.</hi>
+                  </l>
+                  <l>
+                     <hi>Poſtquam luminibus vidi te morte peremptum</hi>
+                  </l>
+                  <l>
+                     <hi>praeproperâ &amp; tetigi pollida membra manu.</hi>
+                  </l>
+                  <l>
+                     <hi>Obſtupui, flevi, mea vox et faucibus haeſit,</hi>
+                  </l>
+                  <l>
+                     <hi>attonituſ<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> ſteti, morte recente tui.</hi>
+                  </l>
+                  <l>
+                     <hi>Attamen ut ſenſi divina particulam aurae</hi>
+                  </l>
+                  <l>
+                     <hi>Tempore festino ſcandere templa poli,</hi>
+                  </l>
+                  <l>
+                     <hi>Tum laetus dixi, tua ſors coeleſte, quid optem</hi>
+                  </l>
+                  <l>
+                     <hi>quàm tecum ut celebrem numina ſacra Dei?</hi>
+                  </l>
+                  <closer>
+                     <signed>Joh. Richardſon <hi>Art. Magiſt.</hi>
+                     </signed>
+                  </closer>
+               </lg>
+               <lg>
+                  <l>So drops the blooming roſe, ſo fades</l>
+                  <l>The lilly in unwelcome ſhades.</l>
+                  <l>No want of ſprightly juyce, cleare aire,</l>
+                  <l>T'in large the ſweet, to deck the faire.</l>
+                  <l>But ſecret venome cloſely creepes,</l>
+                  <l>To blaſt the heart whil'ſt nature ſleepes.</l>
+                  <l>And as the worme which undeſcryed</l>
+                  <l>Nipt <hi>Jonah's</hi> gourde, ſo <hi>Curwen</hi> dyed.</l>
+                  <l>Why thine elected ſpirit ſo ſwift</l>
+                  <l>Should quitt earths fabrick, &amp; make ſhift</l>
+                  <l>T'ore'top the Stars, thy ſudden ſtart</l>
+                  <l>Workes admiration, and my heart</l>
+                  <l>Led by thy trace concludes from hence</l>
+                  <l>Heaven is thus caught by violence.</l>
+                  <l>Nature invites, but grace denies</l>
+                  <l>Thy longer pilgrimage, heaven eſpies</l>
+                  <l>Thy rip'ned vertue, to which Station,</l>
+                  <l>Thy <hi>Enochs</hi> life findes his tranſlation.</l>
+                  <l>Thou'haſt payed thy debt too ſoone, whiles wee</l>
+                  <l>Muſt run on ſcore to follow thee.</l>
+                  <l>Thou didſt more nobly then dull age,</l>
+                  <l>Who feeles the ſlow pac'd <hi>Hecticks</hi> rage.</l>
+                  <l>The Gowte, or Palſy, yet out-lives</l>
+                  <pb n="28" facs="tcp:177908:19"/>
+                  <l>The long wiſht legacy he gives.</l>
+                  <l>Thy ſoule like elementall fire,</l>
+                  <l>Mounts to it's ſpheare, and thy deſire</l>
+                  <l>Out ſtrips thine haſt; as if delay</l>
+                  <l>Had ſtaid thee here beyond thy day.</l>
+                  <l>Oh why ſo ſoone (deare Saint) oh heare</l>
+                  <l>Thy Fathers groane, obſerve the teare</l>
+                  <l>Thy tender mother ſheds, thy friend,</l>
+                  <l>Whoſe love admits and brookes no end</l>
+                  <l>Of thy ſociety, envites</l>
+                  <l>Thy longer day: but Heaven delights</l>
+                  <l>Have rapt thine eagre ſoule, whiles wee</l>
+                  <l>Weepe to behold thine obſequie.</l>
+                  <l>Farewell brave ſpirit, Ile not envy</l>
+                  <l>Thy glory, he muſt more then dye</l>
+                  <l>That meanes to purchaſe heaven, thy dayes</l>
+                  <l>Though ſhort unparallell'd, wee praiſe</l>
+                  <l>Thy patterne, he that lives like thee,</l>
+                  <l>Can never dye too ſuddenly.</l>
+                  <l>There needes no Epitaph, thy name</l>
+                  <l>Is thine owne marble, modeſt fame</l>
+                  <l>Shall ſing this diſtich, here lies hee</l>
+                  <l>Whoſe fourteen ſpake him ſixty three.</l>
+                  <closer>
+                     <signed>
+                        <hi>Stephen Axtill</hi> Bac. <hi>in Medic.</hi>
+                     </signed>
+                  </closer>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Heu nimium nimiumque patri jucundus ocellus</hi>
+                  </l>
+                  <l>
+                     <hi>Eripitur, Parcae ſic mala penſa volunt.</hi>
+                  </l>
+                  <l>
+                     <hi>Nec poſſunt flecti juvenili</hi> Tartara <hi>vultu,</hi>
+                  </l>
+                  <l>
+                     <hi>Rumpere ſaevitiam nec probitatis amor.</hi>
+                  </l>
+                  <l>
+                     <hi>Invida dic quaeſo cur unguibus optima curvis</hi>
+                  </l>
+                  <l>
+                     <hi>Carpere gaviſa es, gaudia noſtra malùm.</hi>
+                  </l>
+                  <l>
+                     <hi>
+                        <g ref="char:V">Ʋ</g>ernantes quare ſecuiſti falcibus annos,</hi>
+                  </l>
+                  <l>
+                     <hi>Sub pedibus ſternens ſpemque decuſ<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> patris?</hi>
+                  </l>
+                  <l>
+                     <hi>Ceſſandumque tibi quid ni violenta putabas</hi>
+                  </l>
+                  <pb n="29" facs="tcp:177908:19"/>
+                  <l>
+                     <hi>
+                        <g ref="char:V">Ʋ</g>ulnere, namque gravi tota ſepulta domus.</hi>
+                  </l>
+                  <l>
+                     <hi>Reſpice quid damni nobis inimica tuliſti.</hi>
+                  </l>
+                  <l>
+                     <hi>W Vulnera nam patitur flebilis iſta domus.</hi>
+                  </l>
+                  <l>
+                     <hi>Vix poſſunt animo luctum tolerare ſodales,</hi>
+                  </l>
+                  <l>
+                     <hi>Et moeſti lacerant ungue rigente genas.</hi>
+                  </l>
+                  <l>
+                     <hi>Nec tales</hi> Niobe <hi>duxit de pectore queſtus,</hi>
+                  </l>
+                  <l>
+                     <hi>Vel</hi> Priamus, <hi>natus cum raperetur equis.</hi>
+                  </l>
+                  <l>
+                     <hi>Sis nimium licet vili contenta Sepulchro,</hi>
+                  </l>
+                  <l>
+                     <hi>Haud erit vili fama repoſta loco.</hi>
+                  </l>
+                  <l>
+                     <hi>Ingenium, probitas, aevo cantabitur omni,</hi>
+                  </l>
+                  <l>
+                     <hi>Et quem non norunt, ſecla futura ſcient.</hi>
+                  </l>
+                  <closer>
+                     <signed>Paul Solomeaux <hi>Gallus Vandomienſis.</hi>
+                     </signed>
+                  </closer>
+               </lg>
+               <lg>
+                  <l>Sweet ſoule enjoy thy happy reſt</l>
+                  <l>Prepar'd for thee, whoſe harmeleſſe breſt,</l>
+                  <l>Ne're harbour'd ill, but the diſeaſe,</l>
+                  <l>That ſuddainly thy life did ſeize.</l>
+                  <l>So th'apple falls unperfected</l>
+                  <l>By that which inwardly it bred:</l>
+                  <l>What could be wiſht to make compleat</l>
+                  <l>Body &amp; mind in thee were heap't.</l>
+                  <l>Such radiant vertues did appeare</l>
+                  <l>In thy rich ſoule, which made thee here</l>
+                  <l>Shine like a Starre, and though but greene</l>
+                  <l>In yeares, yet was there clearely ſeene</l>
+                  <l>In all thine actions ſuch a grace,</l>
+                  <l>As did proclaime thy birth and place,</l>
+                  <l>To be the only hope and heire</l>
+                  <l>Of noble parents; and a faire</l>
+                  <l>Large fortune did no whit elate</l>
+                  <l>Thy wiſer Genius, but to fate</l>
+                  <l>Thou didſt ſubmit, to let us know,</l>
+                  <l>Thou valuedſt not theſe things below.</l>
+                  <l>Theſe could not tempt the, but away</l>
+                  <pb n="30" facs="tcp:177908:20"/>
+                  <l>Thou haſtes as if th'hadſt knowne the day</l>
+                  <l>Of thy ſolution, being come</l>
+                  <l>And ſpent in meeke devotion,</l>
+                  <l>With winged ſpeed thou didſt addreſſe,</l>
+                  <l>To meet that coward mercileſſe</l>
+                  <l>Pale tyrant death, who in deſpight</l>
+                  <l>Hath raviſht us of our delight.</l>
+                  <l>Sleepe on ſweet ſoule, whoſe every lim</l>
+                  <l>Threatned to conquer death, and not death him.</l>
+                  <closer>
+                     <signed>F. K.</signed>
+                  </closer>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Heu mors parce precor pauliſper, ſurripis ipſum</hi>
+                  </l>
+                  <l>
+                     <hi>E gremio puerum delitiaſque patris.</hi>
+                  </l>
+                  <l>
+                     <hi>Non Deus eſt aliquis fraenet qui juſſa ſororum?</hi>
+                  </l>
+                  <l>
+                     <hi>Eſt, ſed parcarum jura dat ipſe Deus.</hi>
+                  </l>
+                  <l>
+                     <hi>Reſtant grandaevi, multis optata fuiſti</hi>
+                  </l>
+                  <l>
+                     <hi>Cura immaturo flore teratur hama.</hi>
+                  </l>
+                  <l>
+                     <hi>Vel mors tu timida es nimiùm, aut conſector</hi> Erynnis,</l>
+                  <l>
+                     <hi>Sternere nam plures non ſolet illa ſimul.</hi>
+                  </l>
+                  <l>
+                     <hi>Cum tu permultos ſimul, &amp; tot triſtia nobis</hi>
+                  </l>
+                  <l>
+                     <hi>Volvas, quò luct<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> nunc Schola tota jacet.</hi>
+                  </l>
+                  <l>
+                     <hi>Rarius aut mitis nunquam, crudelia ſiſte</hi>
+                  </l>
+                  <l>
+                     <hi>Vulnera, ſpem multam ſuſtulit una dies.</hi>
+                  </l>
+                  <l>
+                     <hi>Eludat nullos immunes morte juventus,</hi>
+                  </l>
+                  <l>
+                     <hi>Nam quae</hi> Curwenum <hi>ſuſtulit, illa furit.</hi>
+                  </l>
+                  <closer>
+                     <signed>John. Hoare.</signed>
+                  </closer>
+               </lg>
+            </div>
+            <div type="dialogue">
+               <head>A Dialogue.
+<list>
+                     <item>
+                        <hi>Paſſenger.</hi>
+                     </item>
+                     <item>
+                        <hi>Poet.</hi>
+                     </item>
+                  </list>
+               </head>
+               <sp>
+                  <speaker>Paſſenger.</speaker>
+                  <l>Tell me I praye what doth this Marble cloſe?</l>
+               </sp>
+               <sp>
+                  <speaker>Poet.</speaker>
+                  <l>A bud it is of a new blooming roſe.</l>
+                  <l>A roſe that would ſuch an odour infuſe,</l>
+                  <pb n="31" facs="tcp:177908:20"/>
+                  <l>As to walke by none would refuſe.</l>
+                  <l>A roſe bereaft of ſharpe and pricky thorne.</l>
+                  <l>A roſe as faire, as ever could be borne.</l>
+               </sp>
+               <sp>
+                  <speaker>Paſſenger.</speaker>
+                  <l>Why ſo ſoone cropt? why was it not let ſtand,</l>
+                  <l>To grace the reſt? whoſe was the fatall hand</l>
+                  <l>That did the fact!</l>
+               </sp>
+               <sp>
+                  <speaker>Poet.</speaker>
+                  <l>A blaſt, a chilling blaſt,</l>
+                  <l>Did nip it ſo, though it ſtood pretty faſt.</l>
+                  <l>And ere it could its full perfection ſhow</l>
+                  <l>Moſt haſtily it was enforc'd to bowe.</l>
+                  <l>O cruell wind, oh blaſt infortunate,</l>
+                  <l>To blaſt that flower kept for to propagate:</l>
+                  <l>None of the ſtock is left, the branch decay,</l>
+                  <l>Why didſt thou then gainſt it thy force aſſay?</l>
+                  <l>If thou muſt rage, why do'ſt thou not downe cruſh</l>
+                  <l>Thoſe empty buds, that are not worth a ruſh?</l>
+               </sp>
+               <sp>
+                  <speaker>Paſſenger.</speaker>
+                  <l>Lament no more, thy complaint &amp; thy moane</l>
+                  <l>Is good for naught, for be it late or ſoone</l>
+                  <l>Both good and bad periſh &amp; fall away,</l>
+                  <l>For every man there is a certaine day.</l>
+                  <l>Thou muſt thy lot beare with a conſtant mind,</l>
+                  <l>And yet not think the fates to thee unkind.</l>
+                  <l>As for thy bud the ſent did recreate</l>
+                  <l>Men here below, ſo it will elevate</l>
+                  <l>It ſtill on high, even to the heavens above,</l>
+                  <l>Where mercy dwells, peace, charity, &amp; love.</l>
+                  <l>And in the place wherein too ſoone it fell</l>
+                  <l>Perpetuate ever its moſt pleaſing ſmell</l>
+               </sp>
+               <sp>
+                  <speaker>Poet.</speaker>
+                  <l>I hope it ſhall, and ever from it riſe</l>
+                  <l>Nothing but Musk, or Myrrhe, or Ambergrieſe.</l>
+                  <l>And let me now this Epitaph engrave</l>
+                  <pb n="32" facs="tcp:177908:21"/>
+                  <l>In future times to ſtand upon his Grave.</l>
+               </sp>
+               <lg>
+                  <l>Hold off, I cannot paſſe this hallowed ſhrine.</l>
+                  <l>Ere I have paid due tribute of my teares.</l>
+                  <l>Nothing of Horrour's here, all is divine.</l>
+                  <l>Rare melody enchaunt the liſtning eares</l>
+                  <l>Yeelding ſuch ſweet content expell all teares;</l>
+                  <l>Come nearer friend who in this dead of night</l>
+                  <l>Viſit's with me pale Tombes, ſee ſee this light,</l>
+                  <l>Regard that voice, for mee no teares, no cryes.</l>
+                  <l>Waſt not thy pretious drops in vaine, thy eyes</l>
+                  <l>Ere let be two alimbecks to diſtill</l>
+                  <l>Numbers of teares for thy owne paſſed ill.</l>
+               </lg>
+               <closer>
+                  <signed>
+                     <hi>Paul Solomeaux</hi> Gallus Vandomienſis.</signed>
+               </closer>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:177908:21"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
